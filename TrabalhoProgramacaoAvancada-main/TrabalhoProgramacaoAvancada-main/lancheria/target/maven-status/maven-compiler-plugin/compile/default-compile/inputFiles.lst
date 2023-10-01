@@ -1,0 +1,16 @@
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/PedidoItem.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/Cliente.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/view/FrmListaCategoria.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/dal/Conexao.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/Categoria.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/RelatorioPedidos.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/DadosBot.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/view/FrmListaProduto.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/dal/CategoriaDAO.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/Produto.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/Pedido.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/EchoBot.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/Auxiliar.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/model/RegistraBot.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/dal/DAO.java
+/home/maria/projects/TrabalhoProgramacaoAvancada/lancheria/src/main/java/view/FrmListaPedidos.java
